@@ -1,4 +1,4 @@
-## Staff Positions
+## Staff Positions (A summary of each position and its purpose.  Not a list of actual people in those positions)
 
 - [[Lead Pastor|Lead Pastor]]  
 - Assistant Pastor(s)
