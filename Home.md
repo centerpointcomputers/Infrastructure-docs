@@ -1,6 +1,6 @@
 # Technology Roadmap for NVC
 
-The purpose of this Wiki is to provide a reference for all of the technologies implemented at NVC.  It is a collaborative roadmap (collaborative meaning YOU can participate in editing and creating this document) outlining all of the technologies, hardware and software, used to put on a weekly Sunday morning service and supporting events throughout the course of a normal week.
+The purpose of this Wiki is to provide a reference for all of the technologies implemented at NVC.  It is a collaborative roadmap (_**collaborative meaning YOU can participate in editing and creating this document**_) outlining all of the technologies, hardware and software, used to put on a weekly Sunday morning service and supporting events throughout the course of a normal week.
 
 Consider this a manual for the way we do things at NVC.
 
