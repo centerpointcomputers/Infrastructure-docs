@@ -1,1 +1,4 @@
-Welcome to the NewValleyChurch wiki!
+#Foundational Documents that Outline Technology Usage and Implementation at NVC
+
+[[Sanctuary|Sanctuary]]
+
