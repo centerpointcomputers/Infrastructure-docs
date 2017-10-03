@@ -1,9 +1,15 @@
-# WELCOME
+## Staff Positions
 
-The intention behind this wiki is to create an account of the technologies that are in use at NVC and to paint a roadmap for, and track the evolution of the technologies we are using and may implement in the future.
+- Lead Pastor
+- Assistant Pastor(s)
+- Executive Pastor
+- Junior Executive Pastor
+- Head of Administration
+- Head of Children's Ministries
 
 ## Current Tools (Incomplete List)
 
+- Google Suite
 - Planning Center:
     - Services:  System to manage volunteers and serving, etc. <http://plannincenteronline.com>
 - Roll Call: Handles check-ins to track attendance. <http://bythebook.com> 
