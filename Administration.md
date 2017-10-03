@@ -1,6 +1,6 @@
 ## Staff Positions
 
-- Lead Pastor
+- [[Lead Pastor|Lead Pastor]]  
 - Assistant Pastor(s)
 - Executive Pastor
 - Junior Executive Pastor
