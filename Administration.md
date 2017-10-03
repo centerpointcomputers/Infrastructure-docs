@@ -1,15 +1,16 @@
-## Staff Positions (A summary of each position and its purpose.  Not a list of actual people in those positions)
+## Staff Positions  
+A summary of each position and its purpose.  Not a list of actual people in those positions.
 
 - [[Lead Pastor|Lead Pastor]]  
-- Assistant Pastor(s)
-- Executive Pastor
-- Junior Executive Pastor
-- Head of Administration
-- Head of Children's Ministries
+- [[Assistant Pastor(s)|Assistant Pastor(s)]]
+- [[Executive Pastor|Executive Pastor]]
+- [[Junior Executive Pastor|Junior Executive Pastor]]  
+- [[Head of Administration|Head of Administration]]
+- [[Head of Children's Ministries|Head of Children's Ministries]]
 
 ## Current Tools (Incomplete List)
 
-- Google Suite
+- G-Suite by Google
 - Planning Center:
     - Services:  System to manage volunteers and serving, etc. <http://plannincenteronline.com>
 - Roll Call: Handles check-ins to track attendance. <http://bythebook.com> 
