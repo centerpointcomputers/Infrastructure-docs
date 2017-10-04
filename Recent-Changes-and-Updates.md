@@ -1,8 +1,10 @@
 This is a log of recent activity and updates:
 
-## Planned
+## Working on...
 
-- Merge Roll Call data with Planning Center
+- Format Google Worksheet to include Household key field prior to import to Planning Center People.
+- Merge Roll Call people list with with Planning Center People app.
+- Export all people from PCP as a precautionary backup.
 
 ## Completed  
 
