@@ -3,7 +3,7 @@ This is a log of recent activity and updates:
 ## [[Project Ideas|Project Ideas]]
 Use the [[Project Ideas|Project Ideas]] page to add any ideas you may have.
 
-## Working on...
+## Currently working on...
 
 - Format Google Worksheet to include Household key field prior to import to Planning Center People.
 - Merge Roll Call people list with with Planning Center People app.
