@@ -1,5 +1,7 @@
 This is a log of recent activity and updates:
 
+[[Project Ideas|Project Ideas]]
+
 ## Working on...
 
 - Format Google Worksheet to include Household key field prior to import to Planning Center People.
