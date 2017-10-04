@@ -1,4 +1,3 @@
 # Project Ideas
 
-- This is where you would put an idea.
-- This is where you would put another idea.
+- Re-think the Service Types and consider adding a single service type for Sunday mornings with multiple start time schedules instead of two separate types.
