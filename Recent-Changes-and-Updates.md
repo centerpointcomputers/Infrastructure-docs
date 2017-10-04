@@ -1,6 +1,7 @@
 This is a log of recent activity and updates:
 
-[[Project Ideas|Project Ideas]]
+## [[Project Ideas|Project Ideas]]
+Use the [[Project Ideas|Project Ideas]] page to add any ideas you may have.
 
 ## Working on...
 
