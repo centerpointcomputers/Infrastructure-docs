@@ -12,7 +12,10 @@ Use the [[Project Ideas|Project Ideas]] page to add any ideas you may have.
 
 ## Completed  
 
-##### 10/05/2017:  Explored companion app called Adjace which synchronizes with People to create a front end church directory.  Free for Administrators, subscription based for congregation access.
+##### 10/05/2017:  
+
+- Explored companion app called Adjace which synchronizes with People to create a front end church directory.  Free for Administrators, subscription based for congregation access.  
+
 ##### October 4th, 2017  
 
 - Exported 311 records from Roll Call to tab delimited text file.
