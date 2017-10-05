@@ -5,12 +5,14 @@ Use the [[Project Ideas|Project Ideas]] page to add any ideas you may have.
 
 ## Currently working on...
 
+- Updating Workflow to match Custom fields in Gospel Growth
 - Format Google Worksheet to include Household key field prior to import to Planning Center People.
 - Merge Roll Call people list with with Planning Center People app.
 - Export all people from PCP as a precautionary backup.
 
 ## Completed  
 
+##### 10/05/2017:  Explored companion app called Adjace which synchronizes with People to create a front end church directory.  Free for Administrators, subscription based for congregation access.
 ##### October 4th, 2017  
 
 - Exported 311 records from Roll Call to tab delimited text file.
