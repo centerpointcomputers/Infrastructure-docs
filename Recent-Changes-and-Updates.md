@@ -15,7 +15,8 @@ Use the [[Project Ideas|Project Ideas]] page to add any ideas you may have.
 
 ##### 10/05/2017:  
 
-- Explored companion app called Adjace which synchronizes with People to create a front end church directory.  Free for Administrators, subscription based for congregation access.  
+- Explored companion app called Adjace <http://adjace.com> which synchronizes with People to create a front end church directory.  Free for Administrators, subscription based for congregation access.
+- Connected People to Adjace, created background header, uploaded logo.  System is accessible only by Administrators.  Working on understanding what can and cannot be done with it.  
 
 ##### 10/04/2017:  
 
