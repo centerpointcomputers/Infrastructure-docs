@@ -23,3 +23,11 @@ Use the [[Project Ideas|Project Ideas]] page to add any ideas you may have.
 - Exported all People records to CSV format, uploaded to Google Sheets to evaluate the layout.
 - Exported 311 records from Roll Call to tab delimited text file.
 - Created Google Sheets workbook to begin working on a data migration routine to merge Planning Center People database with Roll Call data.
+
+##### 10/18/2017
+
+- Analyzed Roll Call data and compared to People database.  Determined best course of action was to simply remove all adults from the Roll Call exported list, and import only the children into People.
+- 2nd Step will be to compare adult records in Roll Call against existing People database and import only the adult records that are missing.
+- Imported all children's records from Roll Call into Planning Center People.
+
+##### 10/19/2017
