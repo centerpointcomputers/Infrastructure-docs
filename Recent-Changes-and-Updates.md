@@ -40,6 +40,6 @@ _Note: The next part is a bit tricky.  People has a specific field to identify w
 
 ```=IF(NOT(G2=G1),RANDBETWEEN(900000,1000000),G1)```  
 
-_Column G is the Last Name column.  This formula looks at the row above it and compares the last names.  If the names match, the result will be the actual last name.  If the names do NOT match, it is assumed that this is a new household and an automatic random number is inserted.
+Column G is the Last Name column.  This formula looks at the row above it and compares the last names.  If the names match, the result will be the actual last name.  If the names do NOT match, it is assumed that this is a new household and an automatic random number is inserted.
 
-The purpose of this forumula is to easily assign a unique number every time a new last name is encountered.  The spreadsheet must be sorted by Last Name prior to filling the cells in the column with this formula._
+The purpose of this forumula is to easily assign a unique number every time a new last name is encountered.  The spreadsheet must be sorted by Last Name prior to filling the cells in the column with this formula.
