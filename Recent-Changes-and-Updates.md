@@ -1,4 +1,3 @@
-This is a log of recent activity and updates:
 
 ### 10/19/2017
 
@@ -6,13 +5,23 @@ This is a log of recent activity and updates:
 - Removed all records from the People CSV that are already assigned to a household.  No need to import them again.
 - Removed the filter to restore all records that are NOT part of a household.
 
-_Note: The next part is a bit tricky.  People has a specific field to identify which records are part of a specific household.  It appears to be a randomly or sequential number assigned to the Household_ID column (currently column AV [this will change if more custom fields are created])  When importing multiple records, People looks for this column.  If the column is in the import file, it will create a household for each unique ID that it finds.  The unique ID can be anything.  So, using Google Sheets function RANDBETWEEN, the following formula is run on each cell in the column._
+_Note: The next part is a bit tricky.  People has a specific field to identify which records are part of a specific household.  It appears to be a randomly or sequential number assigned to the Household_ID column (currently column AV [this will change if more custom fields are created])  When importing multiple records, People looks for this column.  If the column is in the import file, it will create a household for each unique ID that it finds.  The unique ID can be anything.  So, using Google Sheets function RANDBETWEEN, the following formula is run on each cell in the column._  
 
-```IF(NOT(G2=G1),RANDBETWEEN(900000,1000000),G1)```
+`IF(NOT(G2=G1),RANDBETWEEN(900000,1000000),G1)`
 
 Column G is the Last Name column.  This formula looks at the row above it and compares the last names.  If the names match, the result will be the actual last name.  If the names do NOT match, it is assumed that this is a new household and an automatic random number is inserted.
 
-The purpose of this forumula is to easily assign a unique number every time a new last name is encountered.  The spreadsheet must be sorted by Last Name prior to filling the cells in the column with this formula.
+The purpose of this formula is to easily assign a unique number every time a new last name is encountered.  The spreadsheet must be sorted by Last Name prior to filling the cells in the column with this formula.
+
+The Household Name column is basically the Last name of the household with "Household" after it.  So, this formula:
+
+`=CONCATENATE(G2," ","Household")`
+
+Combines the last name in the Last Name column with the word `Household` to fill in the Household Name column.
+
+- Assigned unique Household_ID values to the Household_ID Field in the Import file.
+- Located a few discrepancies between last name spellings which was creating multiple households for one family.
+- Filled in Household Names field with appropriate last names.
 
 ### 10/18/2017
 
