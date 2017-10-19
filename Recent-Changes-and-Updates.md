@@ -1,8 +1,5 @@
 This is a log of recent activity and updates:
 
-## [[Project Ideas|Project Ideas]]
-Use the [[Project Ideas|Project Ideas]] page to add any ideas you may have.
-
 ##### 10/19/2017
 
 - Filtered the spreadsheet by the Household_ID column, eliminating all but blank records to isolate names that are already part of an existing household.
@@ -33,10 +30,3 @@ The purpose of this forumula is to easily assign a unique number every time a ne
 - Exported all People records to CSV format, uploaded to Google Sheets to evaluate the layout.
 - Exported 311 records from Roll Call to tab delimited text file.
 - Created Google Sheets workbook to begin working on a data migration routine to merge Planning Center People database with Roll Call data.
-## Currently working on...
-
-- Updating Workflow to match Custom fields in Gospel Growth
-- Format Google Worksheet to include Household key field prior to import to Planning Center People.
-- Merge Roll Call people list with with Planning Center People app.
-- Export all people from PCP as a precautionary backup.
-- Exploring Workflows and figuring out how they tie into the daily routine at NVC.
