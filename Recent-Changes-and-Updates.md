@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> e5d989b749a9adb0b98280f9a13b4b3c82e69124
 ### 10/19/2017
 
 - Filtered the spreadsheet by the Household_ID column, eliminating all but blank records to isolate names that are already part of an existing household.
