@@ -25,6 +25,11 @@ Combines the last name in the Last Name column with the word `Household` to fill
 - Assigned unique Household_ID values to the Household_ID Field in the Import file.
 - Located a few discrepancies between last name spellings which was creating multiple households for one family.
 - Filled in Household Names field with appropriate last names.
+- Reformatted phone number fields to all be uniform.  (XXX) XXX-XXXX.  It's not recommended to use "." in phone numbers.  It may look good on paper, and seem "modern" but there are too many other things that utilize the "." for actual functionality, like .com, etc.
+- Noticed inconsistency in address directional abbreviation.  Many addresses have a period after the directional, many don't.  This is happening somewhere.
+- Household Name column is ignored when importing.  Apparently People imports based on the Household_ID field only, and then constructs the contents of Household Name automatically.
+
+- Imported complete database, updating phone number format and adding households.
 
 ### 10/18/2017
 
