@@ -1,5 +1,3 @@
-This is a log of recent activity and updates:
-
 ### 10/19/2017
 
 - Filtered the spreadsheet by the Household_ID column, eliminating all but blank records to isolate names that are already part of an existing household.
