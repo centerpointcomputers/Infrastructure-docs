@@ -8,9 +8,9 @@
 - Removed all records from the People CSV that are already assigned to a household.  No need to import them again.
 - Removed the filter to restore all records that are NOT part of a household.
 
-_Note: The next part is a bit tricky.  People has a specific field to identify which records are part of a specific household.  It appears to be a randomly or sequential number assigned to the Household_ID column (currently column AV [this will change if more custom fields are created])  When importing multiple records, People looks for this column.  If the column is in the import file, it will create a household for each unique ID that it finds.  The unique ID can be anything.  So, using Google Sheets function RANDBETWEEN, the following formula is run on each cell in the column._  
+_Note: The next part was a bit tricky.  People has a specific field to identify which records are part of a specific household.  It appears to be a randomly or sequential number assigned to the Household_ID column (currently column AV [this will change if more custom fields are created])  When importing multiple records, People looks for this column.  If the column is in the import file, it will create a household for each unique ID that it finds.  The unique ID can be anything.  So, using Google Sheets function RANDBETWEEN, the following formula is run on each cell in the column._  
 
-`IF(NOT(G2=G1),RANDBETWEEN(900000,1000000),G1)`
+`=IF(NOT(G2=G1),RANDBETWEEN(900000,1000000),G1)`
 
 Column G is the Last Name column.  This formula looks at the row above it and compares the last names.  If the names match, the result will be the actual last name.  If the names do NOT match, it is assumed that this is a new household and an automatic random number is inserted.
 
