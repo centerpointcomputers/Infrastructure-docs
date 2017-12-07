@@ -1,0 +1,1 @@
+### A chronology of changes, configuration, etc. regarding technology.
