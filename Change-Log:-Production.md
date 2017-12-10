@@ -8,7 +8,7 @@
 
 - Created a wiring diagram overview of the lighting system based upon current setup.
 
-###12-10-2017
+### 12-10-2017
 
 - Reconfigured the Ableton Live default template at the FOH media workstation.  Previous configuration was a single audio track in Ableton with the QU32 USB source as channel 25.
 
