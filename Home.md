@@ -12,6 +12,5 @@ The purpose of this Wiki is to provide a reference for all of the technologies i
 (Need to define church departments here)
 
 -[[Administration|Administration]]  
--[[Sound & Media|Sound & Media]]  
--[[Stage, Lighting, & Electrical|Stage, Lighting & Electrical]]  
+-[[Production Teams|Production]]  
 -[[Worship Band|Worship Band]]
