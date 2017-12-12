@@ -35,5 +35,20 @@ The width of the display settings on the iMAC do not match the visible screen du
 
 I use [this little calculator here](https://andrew.hedges.name/experiments/aspect_ratio/) to quickly compare ratios for resizing, etc.
 
+# Lights
+
+#### Equipment:
+-
+-
+-
+
+#### Software:
+-
+-
+-
+
+## General Notes
+
+- [Here is a primer](https://newvalleychurch.slack.com/files/U75QP3JLU/F8BRWFCU8/lighting_system_layout_overview.pdf) on the lighting system.
 
 
