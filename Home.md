@@ -4,7 +4,7 @@ The purpose of this Wiki is to provide a reference for all of the technologies i
 
 Questions?  Comments?  Connect with me at jon@jongriffith.com.
 
-Project Repository:  [https://github.com/arrets/NewValleyChurch](https://github.com/arrets/NewValleyChurch)
+Project Repository:  [https://github.com/arretx/NewValleyChurch](https://github.com/arrets/NewValleyChurch)
 
 Technical Issues (Problems, Feature Requests, Ideas for improvement, etc.): [https://github.com/arretx/NewValleyChurch/issues](https://github.com/arretx/NewValleyChurch/issues)
 
