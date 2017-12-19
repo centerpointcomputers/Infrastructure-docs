@@ -1,1 +1,0 @@
-[[Keyboard Setup|Keyboard Setup]]
