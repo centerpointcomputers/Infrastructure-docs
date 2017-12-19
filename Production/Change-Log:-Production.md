@@ -1,5 +1,9 @@
 ## A log of changes in reverse chronological order.
 
+### 12-18-2017
+
+Added a log entry as a new user to test the collaborative features of GitHub in order to sync to a WIKI.
+
 ### 12-11-2017
 
 - Soldered a female 5-Pin DMX connector to the CAT5 cable that runs from the Leviton Digital DS8 Dimmer to the FOH and subsequently to the DMXIS D-Split and DMXIS USB Controller.  [Lighting Layout Reference](https://newvalleychurch.slack.com/files/U75QP3JLU/F8BRWFCU8/lighting_system_layout_overview.pdf)  
