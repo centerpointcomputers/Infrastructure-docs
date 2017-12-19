@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Testing pull
 
 # Welcome to the New Valley Church Tech WIKI
+=======
+TESTING
+
+# Welcome to the New Valley Church Tech WIKI WIKI
+>>>>>>> 7f25db67b94fa7417e4c89585e7454947d908eb8
 
 The purpose of this Wiki is to provide a reference for all of the technologies implemented at NVC.  It is meant to outline all of the technologies, hardware, software, and infrastructure and track issues.
 
