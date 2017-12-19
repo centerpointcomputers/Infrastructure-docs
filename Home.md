@@ -1,4 +1,4 @@
-# Welcome to the New Valley Church Tech WIKI
+# Welcome to the New Valley Church Tech WIKI WIKI
 
 The purpose of this Wiki is to provide a reference for all of the technologies implemented at NVC.  It is meant to outline all of the technologies, hardware, software, and infrastructure and track issues.
 
